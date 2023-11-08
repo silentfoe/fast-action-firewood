@@ -55,6 +55,7 @@ footer {
   display: flex;
   justify-content: center;
   margin-top: 33em;
+  text-align: center;
 }
 
 @media screen and (max-width: 767px) {
@@ -77,6 +78,6 @@ footer {
 
   .spencer-contact-info,
   .miah-contact-info {
-    font-size: 12px;
+    font-size: 15px;
   }
 }
